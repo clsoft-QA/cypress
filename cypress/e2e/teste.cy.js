@@ -1,7 +1,8 @@
 // Script para efetuar testes no SauceDemo
 // Dev: Claudio Santos
-// Data: 13-05-2026
+// Data: 13-05-2026 18:00
 // Utilizando BeforeEach e Commands (Funcoes)
+// 
 
 
 // Automatizar os testes do Sauce Demo
